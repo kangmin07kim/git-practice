@@ -1,0 +1,5 @@
+Git workflow
+1. Modify or create files.
+2. git add stages changes.
+3. git commit records staged changes.
+4. git push sends commits to the remote repository.
