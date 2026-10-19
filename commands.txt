@@ -1,0 +1,5 @@
+git status : Check working tree and staging status
+git add <file> : Stage a file
+git commit -m "message" : Create a commit
+git log --oneline : Show a compact commit history
+git push : Send local commits to a remote repository
